@@ -21,12 +21,3 @@ Prediction: Trend forecasts with confidence probabilities.
 
 
 Deployment: Interactive Streamlit app for accessibility.
-
-Ideal for investors and analysts, this tool offers actionable insights for financial decision-making. Future enhancements may include real-time sentiment analysis, advanced models (e.g., LSTM), and live data integration.
-
-Tech Stack: Python, yfinance, pandas-ta, scikit-learn, Streamlit, matplotlib, seaborn, Jupyter Notebook, GitHub, Streamlit Community Cloud.
-Usage: Clone the repo, activate the virtual environment, and run streamlit run app.py to launch the app locally. Deployed version available on Streamlit Community Cloud.
-Contributions: Welcome! Check the issues tab for tasks or submit pull requests.
-License: MIT License.
-
-Explore the code, test the app, and contribute to improving stock trend prediction!
